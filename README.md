@@ -151,26 +151,6 @@ Let's collaborate, share ideas, or just have a tech chat! I'm always open to dis
 
 ---
 
-<!-- Projects Preview -->
-## 🚀 Featured Projects
-
-Check out my [portfolio](https://sevinda.netlify.app/) for detailed project showcases!
-
-### **Full-Stack Applications**
-- **E-commerce Platform** - Next.js + Spring Boot + MongoDB
-- **Task Management System** - React + Node.js + MySQL
-- **Real-time Chat App** - Socket.io + Express + React
-
-### **Mobile Applications**
-- **Fitness Tracker** - React Native + Firebase
-- **E-learning Platform** - Android (Kotlin) + Spring Boot
-
-### **Open Source Contributions**
-- **UI Component Library** - React + TypeScript
-- **Backend Templates** - Spring Boot starters
-
----
-
 <!-- Support Section -->
 ## ☕ Support My Work
 
@@ -180,7 +160,6 @@ If you appreciate my projects or find my content helpful:
   
   [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sevinda)
   [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/Sevinda)
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sevinda)
   
 </div>
 
